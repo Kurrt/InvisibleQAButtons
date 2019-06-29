@@ -1,0 +1,12 @@
+Package: com.kurrt.invisibleqabuttons
+Name: InvisibleQAButtons
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Invisible but working quick action buttons.
+Homepage: https://kurrt.com/repo/invisibleqabuttons
+Depiction: https://kurrt.com/repo/invisibleqabuttons
+SileoDepiction: https://kurrt.com/repo/invisibleqabuttons/sileo.php
+Maintainer: Kurrt <dev@kurrt.com>
+Author: Kurrt <dev@kurrt.com>
+Section: Tweaks
